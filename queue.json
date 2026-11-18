@@ -126,7 +126,9 @@
   "type": "check",
   "media": [],
   "publish_at": "2026-11-18T10:00:00Z",
-  "status": "pending"
+  "status": "checked",
+  "ig": "getvisablueprint",
+  "page": "The Visa Blueprint"
  },
  {
   "id": "2026-11-18-check-scholar",
@@ -134,6 +136,8 @@
   "type": "check",
   "media": [],
   "publish_at": "2026-11-18T10:00:00Z",
-  "status": "pending"
+  "status": "checked",
+  "ig": "scholardossier",
+  "page": "Scholar Dossier"
  }
 ]
