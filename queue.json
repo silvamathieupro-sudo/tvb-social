@@ -8,6 +8,7 @@
   "caption": "Test (not published)",
   "publish_at": "2026-11-18T10:00:00Z",
   "dry_run": true,
-  "status": "pending"
+  "status": "checked",
+  "container_id": "18042461087691360"
  }
 ]
