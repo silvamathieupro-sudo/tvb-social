@@ -169,9 +169,10 @@ def main():
             changed = True
             try:
                 use_account(item.get("account", "tvb"))
-                ig = call("GET", IG_ID, {"fields": "username"})
+                if item.get("instagram", True):
+                    item["ig"] = call("GET", IG_ID, {"fields": "username"}).get("username")
                 page = call("GET", PAGE_ID, {"fields": "name"}, token=page_token(), base=GRAPH)
-                item.update(status="checked", ig=ig.get("username"), page=page.get("name"))
+                item.update(status="checked", page=page.get("name"))
             except Exception as e:  # noqa: BLE001
                 item.update(status="error", error=str(e)[:500])
             continue
@@ -198,7 +199,8 @@ def main():
             except Exception as e:  # noqa: BLE001
                 item.update(status="error", error=str(e)[:500])
             continue
-        targets = ["ig"] + (["story"] if item.get("story") else []) + (["fb"] if item.get("facebook") else [])
+        ig_on = item.get("instagram", True)
+        targets = (["ig"] + (["story"] if item.get("story") else []) if ig_on else []) + (["fb"] if item.get("facebook") else [])
         for t in targets:
             if t in done:
                 continue
@@ -219,7 +221,7 @@ def main():
             item["errors"] = errors
             item["attempts"] = item.get("attempts", 0) + 1
             if item["attempts"] >= 3:
-                item["status"] = "error" if "ig" not in done else "partial"
+                item["status"] = "partial" if done else "error"
         else:
             item.pop("errors", None)
             item["status"] = "published"
