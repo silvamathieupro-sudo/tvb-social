@@ -79,7 +79,8 @@
   ],
   "caption": "Test (not published)",
   "publish_at": "2026-11-18T10:00:00Z",
-  "status": "pending",
-  "dry_run": true
+  "status": "checked",
+  "dry_run": true,
+  "container_id": "18042462371691360"
  }
 ]
