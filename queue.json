@@ -149,5 +149,20 @@
   "status": "checked",
   "media": [],
   "page": "Cleared Paws"
+ },
+ {
+  "id": "2026-11-18-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-18/paws.mp4"
+  ],
+  "caption": "Moving your dog or cat from the UK to New Zealand? Plan for at least 10 days in an MPI-approved quarantine facility after arrival. The facility is named on your import permit, so book your quarantine place before anything else.\n\nThe UK to New Zealand Kit lays out every step in order: https://clearedpaws.com/kits/uk-to-new-zealand?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtonewzealand #petquarantine",
+  "fb_caption": "Moving your dog or cat from the UK to New Zealand? Plan for at least 10 days in an MPI-approved quarantine facility after arrival. The facility is named on your import permit, so book your quarantine place before anything else.\n\nThe UK to New Zealand Kit lays out every step in order: https://clearedpaws.com/kits/uk-to-new-zealand?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtonewzealand #petquarantine",
+  "publish_at": "2026-11-18T21:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true
  }
 ]
