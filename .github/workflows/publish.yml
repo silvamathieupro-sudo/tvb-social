@@ -7,12 +7,13 @@ on:
     paths: ["queue.json"]
 permissions:
   contents: write
-concurrency:
-  group: publish
-  cancel-in-progress: false
+  actions: write
 jobs:
   publish:
     runs-on: ubuntu-latest
+    concurrency:
+      group: publish
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - name: Publish due items
@@ -36,3 +37,25 @@ jobs:
             git commit -am "queue: statut mis à jour"
             git pull --rebase && git push
           fi
+  wake:
+    # Le cron de GitHub est trop irrégulier : ce job dort jusqu'au prochain élément de queue.json puis relance le robot.
+    needs: publish
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    concurrency:
+      group: wake
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Sleep until the next due item, then wake the robot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          s=$(python3 scripts/next_due.py)
+          if [ "$s" -lt 0 ]; then echo "Rien en attente"; exit 0; fi
+          echo "Réveil dans $s s"
+          sleep "$s"
+          gh workflow run publish.yml --ref main -R "${{ github.repository }}"
