@@ -23,6 +23,9 @@ jobs:
           PAWS_IG_USER_ID: ""
           SCHOLAR_TOKEN: ${{ secrets.SCHOLAR_TOKEN }}
           SCHOLAR_IG_USER_ID: "17841467311335357"
+          TVB_PAGE_ID: "1257088404148096"
+          SCHOLAR_PAGE_ID: "1513418011847330"
+          PAWS_PAGE_ID: ""
           PAGES_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python3 scripts/publish.py
       - name: Save queue status
