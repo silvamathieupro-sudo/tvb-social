@@ -55,5 +55,31 @@
   "caption": "Portugal D2 visa: plan on €11,040 in savings. That's 12 months of Portugal's €920 minimum wage.\n\nThe D2 is for freelancers and founders starting a business in Portugal, and the business plan carries the application.\n\nSave this if Portugal is on your list. D2 business plan template: link in bio.\n\n#portugalvisa #d2visa #movingtoportugal #freelancevisa",
   "publish_at": "2026-11-18T23:00:00Z",
   "status": "pending"
+ },
+ {
+  "id": "2026-11-18-test-carousel",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-18/car-visa-01.jpg",
+   "queue/2026-11-18/car-visa-02.jpg",
+   "queue/2026-11-18/car-visa-03.jpg",
+   "queue/2026-11-18/car-visa-04.jpg",
+   "queue/2026-11-18/car-visa-05.jpg",
+   "queue/2026-11-18/car-visa-06.jpg",
+   "queue/2026-11-18/car-visa-07.jpg"
+  ],
+  "alt_text": [
+   "Cover: Spain non-lucrative visa, every document. Swipe, save, tick them off.",
+   "Forms and ID: national visa application form, signed form EX-01, passport valid one year or more with two free pages, one recent passport photo.",
+   "Proof of means: 2,400 euros a month, 400 percent of IPREM, plus 600 euros a month per family member, shown for 12 months or as regular income.",
+   "Health and background: Spain-authorised health insurance, criminal record covering the last five years, medical certificate.",
+   "Admin: proof of address in the consular district, form 790 code 052 fee paid, apostille and Spanish translation.",
+   "The detail that trips people up: the criminal record and medical certificate are valid for 6 months, so order them last.",
+   "Spain Non-Lucrative Visa Kit, 49 euros: dossier index with means calculation, letter of intent in Spanish and English, sworn statement of non-activity. Link in bio."
+  ],
+  "caption": "Test (not published)",
+  "publish_at": "2026-11-18T10:00:00Z",
+  "status": "pending",
+  "dry_run": true
  }
 ]
