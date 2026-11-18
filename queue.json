@@ -82,5 +82,28 @@
   "status": "checked",
   "dry_run": true,
   "container_id": "18042462371691360"
+ },
+ {
+  "id": "2026-11-18-scholar-test",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-18/scholar.mp4"
+  ],
+  "caption": "Test (not published)",
+  "publish_at": "2026-11-18T10:00:00Z",
+  "dry_run": true,
+  "status": "pending"
+ },
+ {
+  "id": "2026-11-18-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-18/scholar.mp4"
+  ],
+  "caption": "Applying to Oxford or Cambridge for 2027? Your funding deadline may land in December, not later.\n\nGates Cambridge: December 8 or January 6, depending on your course.\nOxford's Clarendon Fund: no separate form. Apply for your course by its December or January deadline and you are considered automatically.\n\nCheck your course page today and put the date in your calendar.\n\nSave this so the date does not sneak up on you. Oxford and Clarendon statement worksheets: link in bio.\n\n#gatescambridge #clarendonscholarship #fullyfundedscholarships #oxforduniversity",
+  "publish_at": "2026-11-18T15:00:00Z",
+  "status": "pending"
  }
 ]
