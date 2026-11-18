@@ -165,6 +165,16 @@ def main():
         when = dt.datetime.fromisoformat(item["publish_at"].replace("Z", "+00:00"))
         if when > now:
             continue
+        if item["type"] == "check":
+            changed = True
+            try:
+                use_account(item.get("account", "tvb"))
+                ig = call("GET", IG_ID, {"fields": "username"})
+                page = call("GET", PAGE_ID, {"fields": "name"}, token=page_token(), base=GRAPH)
+                item.update(status="checked", ig=ig.get("username"), page=page.get("name"))
+            except Exception as e:  # noqa: BLE001
+                item.update(status="error", error=str(e)[:500])
+            continue
         if not media_online(item["media"]):
             if now - when > dt.timedelta(hours=3):
                 item.update(status="error", error="médias introuvables sur GitHub Pages depuis 3 h")
