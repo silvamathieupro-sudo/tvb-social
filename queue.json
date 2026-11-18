@@ -93,7 +93,8 @@
   "caption": "Test (not published)",
   "publish_at": "2026-11-18T10:00:00Z",
   "dry_run": true,
-  "status": "pending"
+  "status": "error",
+  "error": "container 17925991962243712: {'id': '17925991962243712', 'status': 'Error: Media upload has failed with error code 2207076', 'status_code': 'ERROR'}"
  },
  {
   "id": "2026-11-18-scholar-reel",
