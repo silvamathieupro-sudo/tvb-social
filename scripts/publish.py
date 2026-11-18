@@ -16,8 +16,10 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-API = "https://graph.instagram.com/v24.0"
-TOKEN = os.environ["IG_TOKEN"]
+TOKEN = os.environ["IG_TOKEN"].strip()
+# Jeton « IGAA… » (connexion Instagram) -> graph.instagram.com ; sinon (connexion unifiée / Facebook) -> graph.facebook.com
+API = "https://graph.instagram.com/v24.0" if TOKEN.startswith("IG") else "https://graph.facebook.com/v24.0"
+IG_ID = os.environ.get("IG_USER_ID") or "me"
 BASE = os.environ["PAGES_BASE"].rstrip("/")
 QUEUE = "queue.json"
 
@@ -63,7 +65,7 @@ def build(item):
                   "caption": caption, "share_to_feed": "true"}
         if item.get("trial"):
             params["trial_params"] = json.dumps({"graduation_strategy": "MANUAL"})
-        cid = call("POST", "me/media", params)["id"]
+        cid = call("POST", f"{IG_ID}/media", params)["id"]
         wait_ready(cid)
         return cid
     if item["type"] == "carousel":
@@ -74,15 +76,15 @@ def build(item):
             if i < len(alts) and alts[i]:
                 p["alt_text"] = alts[i]
             try:
-                children.append(call("POST", "me/media", p)["id"])
+                children.append(call("POST", f"{IG_ID}/media", p)["id"])
             except RuntimeError:
                 if "alt_text" not in p:
                     raise
                 p.pop("alt_text")
-                children.append(call("POST", "me/media", p)["id"])
+                children.append(call("POST", f"{IG_ID}/media", p)["id"])
         for c in children:
             wait_ready(c, 5)
-        cid = call("POST", "me/media", {"media_type": "CAROUSEL", "children": ",".join(children),
+        cid = call("POST", f"{IG_ID}/media", {"media_type": "CAROUSEL", "children": ",".join(children),
                                         "caption": caption})["id"]
         wait_ready(cid)
         return cid
@@ -107,7 +109,7 @@ def main():
                 item["container_id"] = cid
                 print(f"[ok] {item['id']} : conteneur prêt, non publié (dry_run)")
                 continue
-            mid = call("POST", "me/media_publish", {"creation_id": cid})["id"]
+            mid = call("POST", f"{IG_ID}/media_publish", {"creation_id": cid})["id"]
             info = call("GET", mid, {"fields": "permalink"})
             item.update(status="published", media_id=mid, permalink=info.get("permalink"),
                         published_at=now.isoformat())
