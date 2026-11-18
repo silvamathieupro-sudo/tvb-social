@@ -1,6 +1,6 @@
 """Publie sur Instagram (@getvisablueprint) les éléments échus de queue.json.
 
-Variables d'environnement : IG_TOKEN (secret GitHub), PAGES_BASE (URL GitHub Pages du dépôt).
+Variables d'environnement : IG_TOKEN, PAWS_TOKEN, SCHOLAR_TOKEN (secrets GitHub), *_IG_USER_ID, PAGES_BASE.
 Chaque élément de queue.json :
   {"id": "2026-11-19-reel-A", "type": "reel" | "carousel", "media": ["queue/2026-11-19/visa-A.mp4"],
    "caption": "...", "publish_at": "2026-11-19T14:00:00Z", "trial": false, "dry_run": false,
@@ -16,11 +16,28 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-TOKEN = os.environ["IG_TOKEN"].strip()
-# Jeton « IGAA… » (connexion Instagram) -> graph.instagram.com ; sinon (connexion unifiée / Facebook) -> graph.facebook.com
-API = "https://graph.instagram.com/v24.0" if TOKEN.startswith("IG") else "https://graph.facebook.com/v24.0"
-IG_ID = os.environ.get("IG_USER_ID") or "me"
+# Un compte par marque : "account" dans queue.json (tvb par défaut).
+ACCOUNTS = {
+    "tvb": ("IG_TOKEN", "IG_USER_ID"),
+    "paws": ("PAWS_TOKEN", "PAWS_IG_USER_ID"),
+    "scholar": ("SCHOLAR_TOKEN", "SCHOLAR_IG_USER_ID"),
+}
 BASE = os.environ["PAGES_BASE"].rstrip("/")
+TOKEN = API = IG_ID = None
+
+
+def use_account(name):
+    """Sélectionne jeton, hôte de l'API et ID Instagram du compte."""
+    global TOKEN, API, IG_ID
+    tok_var, id_var = ACCOUNTS[name]
+    TOKEN = (os.environ.get(tok_var) or "").strip()
+    if not TOKEN:
+        raise RuntimeError(f"secret {tok_var} absent")
+    # Jeton « IG… » (connexion Instagram) -> graph.instagram.com ; sinon (connexion unifiée) -> graph.facebook.com
+    API = "https://graph.instagram.com/v24.0" if TOKEN.startswith("IG") else "https://graph.facebook.com/v24.0"
+    IG_ID = os.environ.get(id_var) or "me"
+
+
 QUEUE = "queue.json"
 
 
@@ -103,6 +120,7 @@ def main():
             continue
         changed = True
         try:
+            use_account(item.get("account", "tvb"))
             cid = build(item)
             if item.get("dry_run"):
                 item["status"] = "checked"
