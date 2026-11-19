@@ -291,9 +291,9 @@
   "instagram": false,
   "done": [],
   "errors": {
-   "fb": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A1S_9AAH3U2_OkjQC5eBmZR\"}}"
+   "fb": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"Ag2LhHrxmv9uU4j_0b4m0ZS\"}}"
   },
-  "attempts": 1
+  "attempts": 2
  },
  {
   "id": "2026-11-19-scholar-reel",
