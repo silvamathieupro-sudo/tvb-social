@@ -286,8 +286,9 @@
   "fb_caption": "Visa of the Day #2: the US E-2. It is for nationals of treaty countries who invest a substantial amount in a US business.\n\nThe detail people miss: you need at least 50% ownership of the business, or operational control through a managerial position. Save this before you write your business plan.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#e2visa #treatyinvestor #usvisa #investorvisa",
   "publish_at": "2026-11-19T23:00:00Z",
   "status": "pending",
-  "story": true,
-  "facebook": true
+  "story": false,
+  "facebook": true,
+  "instagram": false
  },
  {
   "id": "2026-11-19-scholar-reel",
@@ -339,7 +340,7 @@
   ],
   "publish_at": "2026-11-19T19:00:00Z",
   "status": "pending",
-  "story": true,
+  "story": false,
   "facebook": true
  },
  {
