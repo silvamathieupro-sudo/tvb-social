@@ -339,15 +339,15 @@
    "Erasmus Mundus Kit, 12 dollars: motivation letter worksheets, STAR evidence bank, referee brief. Link in bio."
   ],
   "publish_at": "2026-11-19T19:00:00Z",
-  "status": "pending",
+  "status": "error",
   "story": false,
   "facebook": true,
   "done": [],
   "errors": {
-   "ig": "POST 17841467311335357/media -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AzY3bfwQAnhQZlw4zs7P5vR\"}}",
-   "fb": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AxxAKWw9TIfHyTk66CFVEve\"}}"
+   "ig": "POST 17841467311335357/media -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"Aq7diRhdx5ye07vp3BLXuFv\"}}",
+   "fb": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AiHPejbK5hBbvH6tjkglvys\"}}"
   },
-  "attempts": 2
+  "attempts": 3
  },
  {
   "id": "2026-11-19-paws-reel",
