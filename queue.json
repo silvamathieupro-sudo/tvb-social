@@ -288,7 +288,12 @@
   "status": "pending",
   "story": false,
   "facebook": true,
-  "instagram": false
+  "instagram": false,
+  "done": [],
+  "errors": {
+   "fb": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A1S_9AAH3U2_OkjQC5eBmZR\"}}"
+  },
+  "attempts": 1
  },
  {
   "id": "2026-11-19-scholar-reel",
