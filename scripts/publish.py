@@ -117,6 +117,28 @@ def ig_publish(cid):
     return mid, call("GET", mid, {"fields": "permalink"}).get("permalink")
 
 
+def ig_already_posted(item):
+    """Cherche dans les derniers posts du compte un post avec la même légende (évite les doublons
+    quand Instagram renvoie une erreur alors que la publication est passée)."""
+    head = item.get("caption", "")[:80]
+    try:
+        posts = call("GET", f"{IG_ID}/media", {"fields": "id,caption,permalink,timestamp", "limit": 10}).get("data", [])
+    except Exception:  # noqa: BLE001
+        return None
+    for m in posts:
+        if head and (m.get("caption") or "").startswith(head):
+            return m
+    return None
+
+
+BLOCK_MARKERS = ('"code":4,', '"code":9,', '"code":17,', '"code":32,', '"code":613,', "2207051",
+                 "request limit", "action est bloquée", "action is blocked")
+
+
+def is_block(err):
+    return any(k in err for k in BLOCK_MARKERS)
+
+
 def ig_story(item):
     m = item["media"][0]
     p = {"media_type": "STORIES"}
@@ -159,6 +181,15 @@ def main():
     queue = json.load(open(QUEUE))
     now = dt.datetime.now(dt.timezone.utc)
     changed = False
+    # Compte Instagram bloqué (limite ou « action bloquée ») : plus aucune publication Instagram
+    # sur ce compte pendant 24 h, Facebook continue.
+    blocked = {}
+    for it in queue:
+        if it.get("ig_blocked_at"):
+            t = dt.datetime.fromisoformat(it["ig_blocked_at"])
+            if now - t < dt.timedelta(hours=24):
+                acc = it.get("account", "tvb")
+                blocked[acc] = max(blocked.get(acc, t), t)
     for item in queue:
         if item.get("status", "pending") != "pending":
             continue
@@ -199,15 +230,33 @@ def main():
             except Exception as e:  # noqa: BLE001
                 item.update(status="error", error=str(e)[:500])
             continue
+        acc = item.get("account", "tvb")
         ig_on = item.get("instagram", True)
+        if ig_on and acc in blocked:
+            item["ig_skipped"] = f"Instagram en pause (blocage du {blocked[acc].isoformat()[:16]} UTC)"
+            ig_on = False
         targets = (["ig"] + (["story"] if item.get("story") else []) if ig_on else []) + (["fb"] if item.get("facebook") else [])
         for t in targets:
             if t in done:
                 continue
             try:
                 if t == "ig":
-                    mid, link = ig_publish(ig_container(item))
-                    item.update(media_id=mid, permalink=link)
+                    prev = ig_already_posted(item) if item.get("attempts") or item.get("errors") else None
+                    if prev:
+                        item.update(media_id=prev.get("id"), permalink=prev.get("permalink"), note="trouvé déjà publié")
+                    else:
+                        try:
+                            mid, link = ig_publish(ig_container(item))
+                            item.update(media_id=mid, permalink=link)
+                        except Exception as e:  # noqa: BLE001
+                            prev = ig_already_posted(item)
+                            if prev:
+                                item.update(media_id=prev.get("id"), permalink=prev.get("permalink"),
+                                            note=f"erreur à la publication mais post en ligne : {str(e)[:150]}")
+                            else:
+                                raise
+                elif t in ("story",) and acc in blocked:
+                    continue
                 elif t == "story":
                     item["story_id"] = ig_story(item)
                 else:
@@ -217,6 +266,10 @@ def main():
             except Exception as e:  # noqa: BLE001
                 errors[t] = str(e)[:400]
                 print(f"[erreur] {item['id']} -> {t} : {e}", file=sys.stderr)
+                if t in ("ig", "story") and is_block(str(e)):
+                    item["ig_blocked_at"] = now.isoformat()
+                    blocked[acc] = now
+                    item["attempts"] = 2  # passe en partial/error à cet essai, aucun nouvel essai Instagram
         if errors:
             item["errors"] = errors
             item["attempts"] = item.get("attempts", 0) + 1
