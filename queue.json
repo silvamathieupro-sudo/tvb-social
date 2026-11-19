@@ -362,6 +362,11 @@
   "status": "pending",
   "instagram": false,
   "story": false,
-  "facebook": true
+  "facebook": true,
+  "done": [],
+  "errors": {
+   "fb": "GET 1528022250384132 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"ATuWAmHbAAxX9rQa5R_mo1X\"}}"
+  },
+  "attempts": 1
  }
 ]
