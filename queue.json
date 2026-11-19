@@ -359,14 +359,14 @@
   "caption": "Moving your dog or cat from the USA to Singapore? Get the AVS import licence before your pet arrives. It is valid for 90 days, and the arrival inspection must be requested at least 5 days ahead.\n\nThe USA to Singapore Kit puts every step in order: https://clearedpaws.com/kits/usa-to-singapore?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtosingapore #petimport",
   "fb_caption": "Moving your dog or cat from the USA to Singapore? Get the AVS import licence before your pet arrives. It is valid for 90 days, and the arrival inspection must be requested at least 5 days ahead.\n\nThe USA to Singapore Kit puts every step in order: https://clearedpaws.com/kits/usa-to-singapore?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtosingapore #petimport",
   "publish_at": "2026-11-19T21:00:00Z",
-  "status": "pending",
+  "status": "error",
   "instagram": false,
   "story": false,
   "facebook": true,
   "done": [],
   "errors": {
-   "fb": "GET 1528022250384132 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AoQ5tb6SiDYHIPtzoEZ5fWh\"}}"
+   "fb": "GET 1528022250384132 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AusShzOW1x5Gq59JGZCyeas\"}}"
   },
-  "attempts": 2
+  "attempts": 3
  }
 ]
