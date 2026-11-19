@@ -341,7 +341,13 @@
   "publish_at": "2026-11-19T19:00:00Z",
   "status": "pending",
   "story": false,
-  "facebook": true
+  "facebook": true,
+  "done": [],
+  "errors": {
+   "ig": "POST 17841467311335357/media -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"A7zMz0QKFnV9Ws6_c6w6MPO\"}}",
+   "fb": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AhNgYf5X1TWou1MNYCcCpfQ\"}}"
+  },
+  "attempts": 1
  },
  {
   "id": "2026-11-19-paws-reel",
