@@ -285,15 +285,15 @@
   "caption": "Visa of the Day #2: the US E-2. It is for nationals of treaty countries who invest a substantial amount in a US business.\n\nThe detail people miss: you need at least 50% ownership of the business, or operational control through a managerial position. Save this before you write your business plan.\n\nLink in bio\n\n#e2visa #treatyinvestor #usvisa #investorvisa",
   "fb_caption": "Visa of the Day #2: the US E-2. It is for nationals of treaty countries who invest a substantial amount in a US business.\n\nThe detail people miss: you need at least 50% ownership of the business, or operational control through a managerial position. Save this before you write your business plan.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#e2visa #treatyinvestor #usvisa #investorvisa",
   "publish_at": "2026-11-19T23:00:00Z",
-  "status": "pending",
+  "status": "error",
   "story": false,
   "facebook": true,
   "instagram": false,
   "done": [],
   "errors": {
-   "fb": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"Ag2LhHrxmv9uU4j_0b4m0ZS\"}}"
+   "fb": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AW11zGjao9H7UqDL1PZHr2s\"}}"
   },
-  "attempts": 2
+  "attempts": 3
  },
  {
   "id": "2026-11-19-scholar-reel",
