@@ -344,10 +344,10 @@
   "facebook": true,
   "done": [],
   "errors": {
-   "ig": "POST 17841467311335357/media -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"A7zMz0QKFnV9Ws6_c6w6MPO\"}}",
-   "fb": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AhNgYf5X1TWou1MNYCcCpfQ\"}}"
+   "ig": "POST 17841467311335357/media -> 400: {\"error\":{\"message\":\"API access blocked.\",\"code\":200,\"type\":\"OAuthException\",\"error_subcode\":5258005,\"fbtrace_id\":\"AzY3bfwQAnhQZlw4zs7P5vR\"}}",
+   "fb": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AxxAKWw9TIfHyTk66CFVEve\"}}"
   },
-  "attempts": 1
+  "attempts": 2
  },
  {
   "id": "2026-11-19-paws-reel",
