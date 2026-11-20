@@ -373,5 +373,96 @@
    "fb": "GET 1528022250384132 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AusShzOW1x5Gq59JGZCyeas\"}}"
   },
   "attempts": 3
+ },
+ {
+  "id": "2026-11-20-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-20/visa-A.mp4"
+  ],
+  "caption": "Canada visitor visa myth: you need an invitation letter. IRCC lists it as optional, and most visitors get up to 6 months per entry.\n\nVisiting family for Christmas? Send this to the person planning the trip.\n\nLink in bio\n\n#canadavisitorvisa #canadavisa #visitcanada #trv",
+  "fb_caption": "Canada visitor visa myth: you need an invitation letter. IRCC lists it as optional, and most visitors get up to 6 months per entry.\n\nVisiting family for Christmas? Send this to the person planning the trip.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#canadavisitorvisa #canadavisa #visitcanada #trv",
+  "publish_at": "2026-11-20T13:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+ },
+ {
+  "id": "2026-11-20-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-20/car-visa-01.jpg",
+   "queue/2026-11-20/car-visa-02.jpg",
+   "queue/2026-11-20/car-visa-03.jpg",
+   "queue/2026-11-20/car-visa-04.jpg",
+   "queue/2026-11-20/car-visa-05.jpg",
+   "queue/2026-11-20/car-visa-06.jpg"
+  ],
+  "caption": "Portugal D7 visa checklist: 8 documents from the consulate lists, plus the income detail most people miss.\n\nSwipe through, save it, and tick each one off before your appointment.\n\nLink in bio\n\n#portugald7visa #d7visa #movetoportugal #portugalvisa",
+  "fb_caption": "Portugal D7 visa checklist: 8 documents from the consulate lists, plus the income detail most people miss.\n\nSwipe through, save it, and tick each one off before your appointment.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#portugald7visa #d7visa #movetoportugal #portugalvisa",
+  "alt_text": [
+   "Cover: Portugal D7 visa, the documents to gather. Swipe, save, tick them off.",
+   "Identity and status: two recent passport photos, passport valid 3 or more months beyond your stay, residence permit if you apply outside your home country.",
+   "Background checks: police clearance certificate, apostilled or legalised, and consent for a Portuguese criminal record check.",
+   "Money, cover and housing: proof of your pension or passive income, travel insurance with medical care and repatriation, proof of accommodation in Portugal.",
+   "The detail that trips people up: consulate checklists also ask for a document proving that income is available in Portugal, on top of proof of the income itself.",
+   "Portugal D7 Passive Income Visa Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-20T18:00:00Z",
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+ },
+ {
+  "id": "2026-11-20-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-20/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #3: Ireland's short stay C visa covers visits of up to 90 days, and you can apply up to 3 months before you travel.\n\nThe officer also wants to see strong ties to home. Save this before you book.\n\nLink in bio\n\n#irelandvisa #visitireland #shortstayvisa #irishvisa",
+  "fb_caption": "Visa of the Day #3: Ireland's short stay C visa covers visits of up to 90 days, and you can apply up to 3 months before you travel.\n\nThe officer also wants to see strong ties to home. Save this before you book.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#irelandvisa #visitireland #shortstayvisa #irishvisa",
+  "publish_at": "2026-11-20T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+ },
+ {
+  "id": "2026-11-20-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-20/scholar.mp4"
+  ],
+  "caption": "Quick quiz: how many new Erasmus Mundus Joint Masters open for 2027 entry? 37. The 87 figure includes 50 design measures, which are not degrees.\n\nSend this to the friend applying this winter.\n\nLink in bio\n\n#erasmusmundus #fullyfundedscholarships #studyineurope #mastersscholarship",
+  "fb_caption": "Quick quiz: how many new Erasmus Mundus Joint Masters open for 2027 entry? 37. The 87 figure includes 50 design measures, which are not degrees.\n\nSend this to the friend applying this winter.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#erasmusmundus #fullyfundedscholarships #studyineurope #mastersscholarship",
+  "publish_at": "2026-11-20T15:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+ },
+ {
+  "id": "2026-11-20-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-20/paws.mp4"
+  ],
+  "caption": "Moving a pet from the US to Hawaii, Japan or Australia? In Hawaii, one missed step can mean up to 120 days of quarantine. Japan needs 180 days after the rabies blood test. Australia needs 180 days too, and at least 6 months of preparation.\n\nThe USA to Australia Kit lays out the timeline: https://clearedpaws.com/kits/usa-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingabroadwithpets #petquarantine",
+  "fb_caption": "Moving a pet from the US to Hawaii, Japan or Australia? In Hawaii, one missed step can mean up to 120 days of quarantine. Japan needs 180 days after the rabies blood test. Australia needs 180 days too, and at least 6 months of preparation.\n\nThe USA to Australia Kit lays out the timeline: https://clearedpaws.com/kits/usa-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingabroadwithpets #petquarantine",
+  "publish_at": "2026-11-20T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "verify_link": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
  }
 ]
