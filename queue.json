@@ -470,8 +470,9 @@
   "account": "tvb",
   "instagram": false,
   "publish_at": "2026-11-20T08:59:29Z",
-  "status": "pending",
-  "media": []
+  "status": "error",
+  "media": [],
+  "error": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AVm8A47lEuhck8aewvUCqHu\"}}"
  },
  {
   "id": "check-scholar-2026-11-20",
@@ -479,8 +480,9 @@
   "account": "scholar",
   "instagram": false,
   "publish_at": "2026-11-20T08:59:29Z",
-  "status": "pending",
-  "media": []
+  "status": "error",
+  "media": [],
+  "error": "GET 1513418011847330 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"APkEaaQi_sL-AZXuw3wCEXc\"}}"
  },
  {
   "id": "check-paws-2026-11-20",
@@ -488,7 +490,8 @@
   "account": "paws",
   "instagram": false,
   "publish_at": "2026-11-20T08:59:29Z",
-  "status": "pending",
-  "media": []
+  "status": "error",
+  "media": [],
+  "error": "GET 1528022250384132 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AyP0beuSBg9j86vmlKZ2INX\"}}"
  }
 ]
