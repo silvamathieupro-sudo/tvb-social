@@ -387,7 +387,7 @@
   "story": true,
   "facebook": true,
   "status": "hold",
-  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
  },
  {
   "id": "2026-11-20-carousel",
@@ -415,7 +415,7 @@
   "story": false,
   "facebook": true,
   "status": "hold",
-  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
  },
  {
   "id": "2026-11-20-reel-B",
@@ -431,7 +431,7 @@
   "story": false,
   "facebook": true,
   "status": "hold",
-  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
  },
  {
   "id": "2026-11-20-scholar-reel",
@@ -446,7 +446,7 @@
   "story": true,
   "facebook": true,
   "status": "hold",
-  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
  },
  {
   "id": "2026-11-20-paws-reel",
@@ -461,8 +461,7 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "verify_link": true,
   "status": "hold",
-  "note": "En attente : « API access blocked » (code 200, sous-code 5258005) sur les 3 applis Meta depuis le 19/11 19:00 UTC. Repasser en pending une fois l'accès rétabli."
+  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
  }
 ]
