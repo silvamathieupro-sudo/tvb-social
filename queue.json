@@ -463,5 +463,32 @@
   "facebook": true,
   "status": "hold",
   "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
+ },
+ {
+  "id": "check-tvb-2026-11-20",
+  "type": "check",
+  "account": "tvb",
+  "instagram": false,
+  "publish_at": "2026-11-20T08:59:29Z",
+  "status": "pending",
+  "media": []
+ },
+ {
+  "id": "check-scholar-2026-11-20",
+  "type": "check",
+  "account": "scholar",
+  "instagram": false,
+  "publish_at": "2026-11-20T08:59:29Z",
+  "status": "pending",
+  "media": []
+ },
+ {
+  "id": "check-paws-2026-11-20",
+  "type": "check",
+  "account": "paws",
+  "instagram": false,
+  "publish_at": "2026-11-20T08:59:29Z",
+  "status": "pending",
+  "media": []
  }
 ]
