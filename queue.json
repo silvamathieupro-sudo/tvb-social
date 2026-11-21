@@ -523,5 +523,97 @@
   "status": "error",
   "media": [],
   "error": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"AfQXCTFlsFyGPswe_LpYHVI\"}}"
+ },
+ {
+  "id": "2026-11-21-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-21/visa-A.mp4"
+  ],
+  "caption": "K-1 fiancé(e) visa: the 90-day clock starts the day you are admitted to the US. You must marry the same citizen who filed Form I-129F within those 90 days, then file Form I-485.\n\nEngaged to a US citizen? Save this before you file.\n\nLink in bio\n\n#k1visa #fiancevisa #k1fiancevisa #usimmigration",
+  "fb_caption": "K-1 fiancé(e) visa: the 90-day clock starts the day you are admitted to the US. You must marry the same citizen who filed Form I-129F within those 90 days, then file Form I-485.\n\nEngaged to a US citizen? Save this before you file.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#k1visa #fiancevisa #k1fiancevisa #usimmigration",
+  "publish_at": "2026-11-21T13:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-21-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-21/car-visa-01.jpg",
+   "queue/2026-11-21/car-visa-02.jpg",
+   "queue/2026-11-21/car-visa-03.jpg",
+   "queue/2026-11-21/car-visa-04.jpg",
+   "queue/2026-11-21/car-visa-05.jpg",
+   "queue/2026-11-21/car-visa-06.jpg",
+   "queue/2026-11-21/car-visa-07.jpg"
+  ],
+  "caption": "Germany Opportunity Card checklist: who qualifies, 7 documents, and the money rule (€1,091 net a month in 2026).\n\nSwipe through, save it, and tick each one off before you apply.\n\nLink in bio\n\n#chancenkarte #opportunitycard #workingermany #germanyvisa",
+  "fb_caption": "Germany Opportunity Card checklist: who qualifies, 7 documents, and the money rule (€1,091 net a month in 2026).\n\nSwipe through, save it, and tick each one off before you apply.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#chancenkarte #opportunitycard #workingermany #germanyvisa",
+  "alt_text": [
+   "Cover: Germany Opportunity Card, what to prepare. Swipe, save, tick them off.",
+   "Who qualifies: a qualification fully recognised in Germany, or a state-recognised degree or 2-year vocational training plus 6 points.",
+   "Documents to gather: valid passport, proof of qualification and recognition notice if any, proof of German or English skills, proof of your points criteria.",
+   "Money and cover: 1,091 euros net a month in own funds in 2026, shown with a blocked account or a Declaration of Commitment, and health insurance for the whole stay.",
+   "The language minimum on the points route: German at A1 or English at B2.",
+   "What it lets you do: up to 12 months to job hunt, part-time work up to 20 hours a week, trial work up to 2 weeks per employer.",
+   "Opportunity Card Kit (Chancenkarte). Link in bio."
+  ],
+  "publish_at": "2026-11-21T17:00:00Z",
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-21-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-21/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #4: France's entrepreneur and liberal profession visa. Setting up as a freelancer? You must show income at least equal to the full-time minimum wage, €1,867 gross a month.\n\nPlanning to work for yourself in France? Save this.\n\nLink in bio\n\n#francevisa #freelanceinfrance #professionliberale #movetofrance",
+  "fb_caption": "Visa of the Day #4: France's entrepreneur and liberal profession visa. Setting up as a freelancer? You must show income at least equal to the full-time minimum wage, €1,867 gross a month.\n\nPlanning to work for yourself in France? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#francevisa #freelanceinfrance #professionliberale #movetofrance",
+  "publish_at": "2026-11-21T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-21-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-21/scholar.mp4"
+  ],
+  "caption": "Fully funded scholarships, ranked by living allowance: Gates Cambridge pays £23,152 for 12 months, the Swedish Institute SEK 12,000 a month, Stipendium Hungaricum HUF 43,700 a month plus free tuition.\n\nSend this to the friend applying this winter.\n\nLink in bio\n\n#fullyfundedscholarships #gatescambridge #swedishinstitute #stipendiumhungaricum",
+  "fb_caption": "Fully funded scholarships, ranked by living allowance: Gates Cambridge pays £23,152 for 12 months, the Swedish Institute SEK 12,000 a month, Stipendium Hungaricum HUF 43,700 a month plus free tuition.\n\nSend this to the friend applying this winter.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#fullyfundedscholarships #gatescambridge #swedishinstitute #stipendiumhungaricum",
+  "publish_at": "2026-11-21T15:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-21-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-21/paws.mp4"
+  ],
+  "caption": "Taking a pet from Canada to the EU? The microchip must go in before the rabies vaccine, you wait at least 21 days after the first vaccination, and the health certificate is valid for 10 days up to the EU entry check.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #petsincanada #movingabroadwithpets",
+  "fb_caption": "Taking a pet from Canada to the EU? The microchip must go in before the rabies vaccine, you wait at least 21 days after the first vaccination, and the health certificate is valid for 10 days up to the EU entry check.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #petsincanada #movingabroadwithpets",
+  "publish_at": "2026-11-21T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
  }
 ]
