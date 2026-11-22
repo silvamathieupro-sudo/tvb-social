@@ -624,5 +624,95 @@
   "publish_at": "2026-11-22T03:31:00Z",
   "status": "error",
   "error": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A0JM3tkSaCU4d1Z9uODCCbz\"}}"
+ },
+ {
+  "id": "2026-11-22-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-22/visa-A.mp4"
+  ],
+  "caption": "3 things Irish citizenship applicants forget: a certified colour copy of your passport page with the signed certification form, residence proofs worth 150 points for every year, and the €175 non-refundable fee.\n\nApplying this year? Save this.\n\nLink in bio\n\n#irishcitizenship #naturalisation #movetoireland #irelandimmigration",
+  "fb_caption": "3 things Irish citizenship applicants forget: a certified colour copy of your passport page with the signed certification form, residence proofs worth 150 points for every year, and the €175 non-refundable fee.\n\nApplying this year? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#irishcitizenship #naturalisation #movetoireland #irelandimmigration",
+  "publish_at": "2026-11-22T13:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-22-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-22/car-visa-01.jpg",
+   "queue/2026-11-22/car-visa-02.jpg",
+   "queue/2026-11-22/car-visa-03.jpg",
+   "queue/2026-11-22/car-visa-04.jpg",
+   "queue/2026-11-22/car-visa-05.jpg",
+   "queue/2026-11-22/car-visa-06.jpg"
+  ],
+  "caption": "France long-stay visitor visa checklist: resources (€1,477.93 net a month for one person), health insurance for the whole stay, accommodation, and the promise not to work.\n\nSwipe through, save it, and tick each one off before your appointment.\n\nLink in bio\n\n#francevisa #visitorvisa #movetofrance #longstayvisa",
+  "fb_caption": "France long-stay visitor visa checklist: resources (€1,477.93 net a month for one person), health insurance for the whole stay, accommodation, and the promise not to work.\n\nSwipe through, save it, and tick each one off before your appointment.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#francevisa #visitorvisa #movetofrance #longstayvisa",
+  "alt_text": [
+   "Cover: France long-stay visitor visa, what to prepare. Swipe, save, tick them off.",
+   "Money: proof of resources for the whole stay, 1,477.93 euros net a month for one person, proof of your situation such as retirement or leave.",
+   "Cover and housing: health insurance for the whole stay covering medical, hospital and repatriation costs, and proof of accommodation in France.",
+   "The promise not to work: you formally commit not to work in France as an employee, a freelancer or a business owner.",
+   "After you land: the visitor visa works as a residence permit, VLS-TS, and must be validated online after you arrive.",
+   "France Long-Stay Visitor Visa Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-22T17:00:00Z",
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-22-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-22/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #5: the Dutch self-employed residence permit. Your business must show at least €1,766.77 gross profit a month (holiday allowance included) until 31 December 2026, and pass the RVO points test.\n\nPlanning to freelance in the Netherlands? Save this.\n\nLink in bio\n\n#netherlandsvisa #selfemployed #movetothenetherlands #ind",
+  "fb_caption": "Visa of the Day #5: the Dutch self-employed residence permit. Your business must show at least €1,766.77 gross profit a month (holiday allowance included) until 31 December 2026, and pass the RVO points test.\n\nPlanning to freelance in the Netherlands? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#netherlandsvisa #selfemployed #movetothenetherlands #ind",
+  "publish_at": "2026-11-22T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-22-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-22/scholar.mp4"
+  ],
+  "caption": "Chevening interview: don't recite a memorised \"right\" answer. Chevening says there is no right answer, only a true one. Structure a real example with STAR: situation, task, action, result.\n\nSend this to a friend with an interview coming up.\n\nLink in bio\n\n#chevening #cheveningscholarship #scholarshipinterview #studyinuk",
+  "fb_caption": "Chevening interview: don't recite a memorised \"right\" answer. Chevening says there is no right answer, only a true one. Structure a real example with STAR: situation, task, action, result.\n\nSend this to a friend with an interview coming up.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#chevening #cheveningscholarship #scholarshipinterview #studyinuk",
+  "publish_at": "2026-11-22T15:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-22-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-22/paws.mp4"
+  ],
+  "caption": "Moving a pet from the UK to Japan? Microchip, then 2 rabies shots at least 30 days apart, a blood test of 0.5 IU/ml or more (day 0), notification at least 40 days before arrival, and arrival no earlier than 180 days after the blood test.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtojapan #movingabroadwithpets",
+  "fb_caption": "Moving a pet from the UK to Japan? Microchip, then 2 rabies shots at least 30 days apart, a blood test of 0.5 IU/ml or more (day 0), notification at least 40 days before arrival, and arrival no earlier than 180 days after the blood test.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtojapan #movingabroadwithpets",
+  "publish_at": "2026-11-22T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
  }
 ]
