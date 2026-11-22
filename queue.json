@@ -615,5 +615,13 @@
   "facebook": true,
   "status": "hold",
   "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "check-tvb-2026-11-22",
+  "type": "check",
+  "account": "tvb",
+  "instagram": false,
+  "publish_at": "2026-11-22T03:31:00Z",
+  "status": "pending"
  }
 ]
