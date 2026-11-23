@@ -734,10 +734,11 @@
   "caption": "Portugal D7: don't guess the income. Consulates use the 2026 minimum wage, €920 a month net, covering at least 12 months. A second adult adds 50%.\n\nSend this to someone planning a move to Portugal.\n\nLink in bio\n\n#portugald7 #d7visa #movetoportugal #passiveincomevisa",
   "fb_caption": "Portugal D7: don't guess the income. Consulates use the 2026 minimum wage, €920 a month net, covering at least 12 months. A second adult adds 50%.\n\nSend this to someone planning a move to Portugal.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#portugald7 #d7visa #movetoportugal #passiveincomevisa",
   "publish_at": "2026-11-23T13:00:00Z",
-  "story": true,
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "instagram": false
  },
  {
   "id": "2026-11-23-carousel",
@@ -764,8 +765,9 @@
   "publish_at": "2026-11-23T17:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "instagram": false
  },
  {
   "id": "2026-11-23-reel-B",
@@ -780,8 +782,8 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement."
  },
  {
   "id": "2026-11-23-scholar-reel",
@@ -793,10 +795,11 @@
   "caption": "Türkiye Bursları pays master's students 9,500 TL a month, on top of tuition, accommodation, health insurance and a flight. Applications run from 10 January to 20 February.\n\nSave this for January.\n\nLink in bio\n\n#turkiyeburslari #turkeyscholarship #fullyfundedscholarships #studyinturkey",
   "fb_caption": "Türkiye Bursları pays master's students 9,500 TL a month, on top of tuition, accommodation, health insurance and a flight. Applications run from 10 January to 20 February.\n\nSave this for January.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#turkiyeburslari #turkeyscholarship #fullyfundedscholarships #studyinturkey",
   "publish_at": "2026-11-23T15:00:00Z",
-  "story": true,
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "instagram": false
  },
  {
   "id": "2026-11-23-scholar-carousel",
@@ -823,8 +826,9 @@
   "publish_at": "2026-11-23T19:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "instagram": false
  },
  {
   "id": "2026-11-23-paws-reel",
@@ -839,8 +843,8 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement."
  },
  {
   "account": "tvb",
@@ -850,5 +854,21 @@
   "publish_at": "2026-11-23T09:44:00Z",
   "status": "checked",
   "page": "The Visa Blueprint"
+ },
+ {
+  "id": "check-scholar-2026-11-23-1050",
+  "account": "scholar",
+  "type": "check",
+  "instagram": false,
+  "publish_at": "2026-11-23T09:46:00Z",
+  "status": "pending"
+ },
+ {
+  "id": "check-paws-2026-11-23-1050",
+  "account": "paws",
+  "type": "check",
+  "instagram": false,
+  "publish_at": "2026-11-23T09:46:00Z",
+  "status": "pending"
  }
 ]
