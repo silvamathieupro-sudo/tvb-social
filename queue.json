@@ -863,8 +863,13 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement."
+  "status": "published",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "3144665679205615",
+  "published_at": "2026-11-23T21:01:10.335059+00:00"
  },
  {
   "account": "tvb",
