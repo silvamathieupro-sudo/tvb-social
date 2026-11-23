@@ -792,8 +792,13 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement."
+  "status": "published",
+  "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1776170616805186",
+  "published_at": "2026-11-23T23:01:15.221288+00:00"
  },
  {
   "id": "2026-11-23-scholar-reel",
