@@ -721,6 +721,7 @@
   "instagram": false,
   "id": "check-tvb-2026-11-23",
   "publish_at": "2026-11-23T03:32:00Z",
-  "status": "pending"
+  "status": "error",
+  "error": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A--x1YZXaK0GJsOB3xI8Hns\"}}"
  }
 ]
