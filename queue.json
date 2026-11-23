@@ -723,5 +723,123 @@
   "publish_at": "2026-11-23T03:32:00Z",
   "status": "error",
   "error": "GET 1257088404148096 -> 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"error_subcode\":5258005,\"fbtrace_id\":\"A--x1YZXaK0GJsOB3xI8Hns\"}}"
+ },
+ {
+  "id": "2026-11-23-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-23/visa-A.mp4"
+  ],
+  "caption": "Portugal D7: don't guess the income. Consulates use the 2026 minimum wage, €920 a month net, covering at least 12 months. A second adult adds 50%.\n\nSend this to someone planning a move to Portugal.\n\nLink in bio\n\n#portugald7 #d7visa #movetoportugal #passiveincomevisa",
+  "fb_caption": "Portugal D7: don't guess the income. Consulates use the 2026 minimum wage, €920 a month net, covering at least 12 months. A second adult adds 50%.\n\nSend this to someone planning a move to Portugal.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#portugald7 #d7visa #movetoportugal #passiveincomevisa",
+  "publish_at": "2026-11-23T13:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-23-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-23/car-visa-01.jpg",
+   "queue/2026-11-23/car-visa-02.jpg",
+   "queue/2026-11-23/car-visa-03.jpg",
+   "queue/2026-11-23/car-visa-04.jpg",
+   "queue/2026-11-23/car-visa-05.jpg",
+   "queue/2026-11-23/car-visa-06.jpg"
+  ],
+  "caption": "Italy elective residence visa checklist: the basics, the income line (above €31,000 a year per applicant at the Boston consulate), and the no-work rule.\n\nSave this checklist before your consulate appointment.\n\nLink in bio\n\n#electiveresidence #italyvisa #movetoitaly #retireinitaly",
+  "fb_caption": "Italy elective residence visa checklist: the basics, the income line (above €31,000 a year per applicant at the Boston consulate), and the no-work rule.\n\nSave this checklist before your consulate appointment.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#electiveresidence #italyvisa #movetoitaly #retireinitaly",
+  "alt_text": [
+   "Cover: Italy elective residence visa, what to bring.",
+   "The basics: national visa form signed at the consulate, passport photo 3.5 by 4.5 cm, passport valid 3 months past your stay, proof you live in the consulate's area.",
+   "The income line: Boston's consulate asks for stable passive income above 31,000 euros a year per applicant.",
+   "No work allowed: a salary does not count toward the income requirement.",
+   "Check your consulate: each Italian consulate publishes its own checklist.",
+   "Italy Elective Residence Visa Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-23T17:00:00Z",
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-23-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-23/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #6: the UK Ancestry visa. For Commonwealth citizens 17 or over with a grandparent born in the UK. The fee is £726, plus the healthcare surcharge, and you must be able to work and plan to work in the UK.\n\nGot a British grandparent? Save this.\n\nLink in bio\n\n#ukancestryvisa #ukvisa #movetotheuk #commonwealth",
+  "fb_caption": "Visa of the Day #6: the UK Ancestry visa. For Commonwealth citizens 17 or over with a grandparent born in the UK. The fee is £726, plus the healthcare surcharge, and you must be able to work and plan to work in the UK.\n\nGot a British grandparent? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#ukancestryvisa #ukvisa #movetotheuk #commonwealth",
+  "publish_at": "2026-11-23T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-23-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-23/scholar.mp4"
+  ],
+  "caption": "Türkiye Bursları pays master's students 9,500 TL a month, on top of tuition, accommodation, health insurance and a flight. Applications run from 10 January to 20 February.\n\nSave this for January.\n\nLink in bio\n\n#turkiyeburslari #turkeyscholarship #fullyfundedscholarships #studyinturkey",
+  "fb_caption": "Türkiye Bursları pays master's students 9,500 TL a month, on top of tuition, accommodation, health insurance and a flight. Applications run from 10 January to 20 February.\n\nSave this for January.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#turkiyeburslari #turkeyscholarship #fullyfundedscholarships #studyinturkey",
+  "publish_at": "2026-11-23T15:00:00Z",
+  "story": true,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-23-scholar-carousel",
+  "account": "scholar",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-23/car-scholar-01.jpg",
+   "queue/2026-11-23/car-scholar-02.jpg",
+   "queue/2026-11-23/car-scholar-03.jpg",
+   "queue/2026-11-23/car-scholar-04.jpg",
+   "queue/2026-11-23/car-scholar-05.jpg",
+   "queue/2026-11-23/car-scholar-06.jpg"
+  ],
+  "caption": "2 fully funded master's scholarships opening soon: Türkiye Bursları (10 January to 20 February) and the Swedish Institute (University Admissions by 15 January 2027, SI portal 8 to 24 February 2027).\n\nSend this to a friend applying for a master's abroad.\n\nLink in bio\n\n#fullyfundedscholarships #turkiyeburslari #swedishinstitute #mastersabroad",
+  "fb_caption": "2 fully funded master's scholarships opening soon: Türkiye Bursları (10 January to 20 February) and the Swedish Institute (University Admissions by 15 January 2027, SI portal 8 to 24 February 2027).\n\nSend this to a friend applying for a master's abroad.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#fullyfundedscholarships #turkiyeburslari #swedishinstitute #mastersabroad",
+  "alt_text": [
+   "Cover: 2 fully funded master's scholarships opening soon.",
+   "Türkiye Bursları: applications from 10 January to 20 February, 9,500 TL a month for master's students.",
+   "SI scholarship step 1: apply to an eligible English-taught master's in Sweden by 15 January 2027.",
+   "SI scholarship step 2: the SI portal is open from 8 to 24 February 2027, full tuition plus SEK 12,000 a month.",
+   "SI subject areas: governance, public health, entrepreneurship and innovation, or STEM.",
+   "Türkiye Bursları Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-23T19:00:00Z",
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+ },
+ {
+  "id": "2026-11-23-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-23/paws.mp4"
+  ],
+  "caption": "Moving a dog from the US to New Zealand? Every cat and dog from the US needs a minimum of 10 days in an MPI-approved quarantine facility, booked before you apply for the import permit.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtonewzealand #movingabroadwithpets",
+  "fb_caption": "Moving a dog from the US to New Zealand? Every cat and dog from the US needs a minimum of 10 days in an MPI-approved quarantine facility, booked before you apply for the import permit.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtonewzealand #movingabroadwithpets",
+  "publish_at": "2026-11-23T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "hold",
+  "note": "En attente : « API access blocked » toujours renvoyé le 23/11 à 03:32 UTC (4e jour). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
  }
 ]
