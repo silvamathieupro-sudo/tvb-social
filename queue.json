@@ -736,9 +736,14 @@
   "publish_at": "2026-11-23T13:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "pending",
+  "status": "published",
   "note": "Reprise après rétablissement de l'API le 23/11 10:45 Paris : jour 1 sur 2, Facebook seulement.",
-  "instagram": false
+  "instagram": false,
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1917148919713931",
+  "published_at": "2026-11-23T13:01:09.082797+00:00"
  },
  {
   "id": "2026-11-23-carousel",
