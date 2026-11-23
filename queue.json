@@ -861,7 +861,8 @@
   "type": "check",
   "instagram": false,
   "publish_at": "2026-11-23T09:46:00Z",
-  "status": "pending"
+  "status": "checked",
+  "page": "Scholar Dossier"
  },
  {
   "id": "check-paws-2026-11-23-1050",
@@ -869,6 +870,7 @@
   "type": "check",
   "instagram": false,
   "publish_at": "2026-11-23T09:46:00Z",
-  "status": "pending"
+  "status": "checked",
+  "page": "Cleared Paws"
  }
 ]
