@@ -947,11 +947,16 @@
    "Canada Spousal Sponsorship Kit. Link in bio."
   ],
   "publish_at": "2026-11-24T17:00:00Z",
-  "status": "pending",
+  "status": "published",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1257088404148096_122130866781402806",
+  "published_at": "2026-11-24T17:01:12.455266+00:00"
  },
  {
   "id": "2026-11-24-reel-B",
