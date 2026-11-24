@@ -1005,10 +1005,15 @@
   "caption": "Bringing a pet from Canada to the UK? No quarantine if you follow the pet travel rules, and dogs need tapeworm treatment 1 to 5 days before arrival, recorded by a vet.\n\nStart here: https://clearedpaws.com/kits/canada-to-uk?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #movingabroadwithpets",
   "fb_caption": "Bringing a pet from Canada to the UK? No quarantine if you follow the pet travel rules, and dogs need tapeworm treatment 1 to 5 days before arrival, recorded by a vet.\n\nStart here: https://clearedpaws.com/kits/canada-to-uk?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #movingabroadwithpets",
   "publish_at": "2026-11-24T21:00:00Z",
-  "status": "pending",
+  "status": "published",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1161918673000318",
+  "published_at": "2026-11-24T21:01:11.696951+00:00"
  }
 ]
