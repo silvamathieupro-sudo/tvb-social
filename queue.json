@@ -902,5 +902,98 @@
   "publish_at": "2026-11-23T09:46:00Z",
   "status": "checked",
   "page": "Cleared Paws"
+ },
+ {
+  "id": "2026-11-24-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-24/visa-A.mp4"
+  ],
+  "caption": "Canada Super Visa: the insurance number is $100,000. Your policy needs at least $100,000 of emergency coverage, valid for 1 year from entry, paid in full or by instalments. Quotes are not accepted.\n\nHelping your parents apply? Save this.\n\nLink in bio\n\n#supervisa #canadasupervisa #parentsvisa #canadaimmigration",
+  "fb_caption": "Canada Super Visa: the insurance number is $100,000. Your policy needs at least $100,000 of emergency coverage, valid for 1 year from entry, paid in full or by instalments. Quotes are not accepted.\n\nHelping your parents apply? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#supervisa #canadasupervisa #parentsvisa #canadaimmigration",
+  "publish_at": "2026-11-24T13:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+ },
+ {
+  "id": "2026-11-24-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-24/car-visa-01.jpg",
+   "queue/2026-11-24/car-visa-02.jpg",
+   "queue/2026-11-24/car-visa-03.jpg",
+   "queue/2026-11-24/car-visa-04.jpg",
+   "queue/2026-11-24/car-visa-05.jpg",
+   "queue/2026-11-24/car-visa-06.jpg"
+  ],
+  "caption": "Canada spousal sponsorship checklist: the 3 forms (IMM 1344, IMM 5532, IMM 5533), the proof to gather, and the 10-page cap on proof of communication.\n\nSave this before you start your application.\n\nLink in bio\n\n#spousalsponsorship #canadaimmigration #spousalvisa #canadapr",
+  "fb_caption": "Canada spousal sponsorship checklist: the 3 forms (IMM 1344, IMM 5532, IMM 5533), the proof to gather, and the 10-page cap on proof of communication.\n\nSave this before you start your application.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#spousalsponsorship #canadaimmigration #spousalvisa #canadapr",
+  "alt_text": [
+   "Cover: Canada spousal sponsorship, forms and proof.",
+   "Forms you both sign: IMM 1344 Application to Sponsor, IMM 5532 Relationship Information, IMM 5533 Document Checklist.",
+   "Proof to gather: marriage certificate, divorce certificate if previously married, proof of communication, translations into English or French.",
+   "Both of you sign: the sponsor and the person sponsored digitally sign the IMM 1344 and IMM 5532.",
+   "The page cap: no more than 10 pages of proof of communication.",
+   "Canada Spousal Sponsorship Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-24T17:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+ },
+ {
+  "id": "2026-11-24-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-24/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #7: Australia's Visitor visa (subclass 600). For holidays, cruises and visiting family. The Tourist stream costs from AUD 250 when you apply from outside Australia, and most visitors get 3 months, up to 12 in some cases.\n\nPlanning a trip to Australia? Save this.\n\nLink in bio\n\n#australiavisa #visitorvisa #subclass600 #australiatravel",
+  "fb_caption": "Visa of the Day #7: Australia's Visitor visa (subclass 600). For holidays, cruises and visiting family. The Tourist stream costs from AUD 250 when you apply from outside Australia, and most visitors get 3 months, up to 12 in some cases.\n\nPlanning a trip to Australia? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#australiavisa #visitorvisa #subclass600 #australiatravel",
+  "publish_at": "2026-11-24T23:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+ },
+ {
+  "id": "2026-11-24-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-24/scholar.mp4"
+  ],
+  "caption": "Swedish Institute Scholarship for Global Professionals, your 2027 countdown: apply to your master's by 15 January, SI portal 8 to 24 February, admission results 1 April, scholarship results 22 April.\n\nSave this and set the reminders now.\n\nLink in bio\n\n#swedishinstitute #sischolarship #studyinsweden #fullyfundedscholarships",
+  "fb_caption": "Swedish Institute Scholarship for Global Professionals, your 2027 countdown: apply to your master's by 15 January, SI portal 8 to 24 February, admission results 1 April, scholarship results 22 April.\n\nSave this and set the reminders now.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#swedishinstitute #sischolarship #studyinsweden #fullyfundedscholarships",
+  "publish_at": "2026-11-24T15:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
+ },
+ {
+  "id": "2026-11-24-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-24/paws.mp4"
+  ],
+  "caption": "Bringing a pet from Canada to the UK? No quarantine if you follow the pet travel rules, and dogs need tapeworm treatment 1 to 5 days before arrival, recorded by a vet.\n\nStart here: https://clearedpaws.com/kits/canada-to-uk?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #movingabroadwithpets",
+  "fb_caption": "Bringing a pet from Canada to the UK? No quarantine if you follow the pet travel rules, and dogs need tapeworm treatment 1 to 5 days before arrival, recorded by a vet.\n\nStart here: https://clearedpaws.com/kits/canada-to-uk?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #movingabroadwithpets",
+  "publish_at": "2026-11-24T21:00:00Z",
+  "status": "pending",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "note": "Reprise après rétablissement de l'API le 23/11 : jour 2 sur 2, Facebook seulement."
  }
 ]
