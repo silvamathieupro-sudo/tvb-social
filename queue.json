@@ -1148,8 +1148,13 @@
   "publish_at": "2026-11-25T21:00:00Z",
   "instagram": false,
   "story": false,
-  "status": "pending",
+  "status": "published",
   "facebook": true,
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1069084419525798",
+  "published_at": "2026-11-25T21:01:11.239930+00:00"
  }
 ]
