@@ -637,9 +637,14 @@
   "publish_at": "2026-11-25T11:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "pending",
+  "status": "published",
   "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé).",
-  "instagram": false
+  "instagram": false,
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1310937837879510",
+  "published_at": "2026-11-25T11:01:10.134187+00:00"
  },
  {
   "id": "2026-11-22-carousel",
