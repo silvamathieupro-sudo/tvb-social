@@ -634,11 +634,12 @@
   ],
   "caption": "3 things Irish citizenship applicants forget: a certified colour copy of your passport page with the signed certification form, residence proofs worth 150 points for every year, and the €175 non-refundable fee.\n\nApplying this year? Save this.\n\nLink in bio\n\n#irishcitizenship #naturalisation #movetoireland #irelandimmigration",
   "fb_caption": "3 things Irish citizenship applicants forget: a certified colour copy of your passport page with the signed certification form, residence proofs worth 150 points for every year, and the €175 non-refundable fee.\n\nApplying this year? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#irishcitizenship #naturalisation #movetoireland #irelandimmigration",
-  "publish_at": "2026-11-22T13:00:00Z",
-  "story": true,
+  "publish_at": "2026-11-25T11:00:00Z",
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé).",
+  "instagram": false
  },
  {
   "id": "2026-11-22-carousel",
@@ -693,11 +694,12 @@
   ],
   "caption": "Chevening interview: don't recite a memorised \"right\" answer. Chevening says there is no right answer, only a true one. Structure a real example with STAR: situation, task, action, result.\n\nSend this to a friend with an interview coming up.\n\nLink in bio\n\n#chevening #cheveningscholarship #scholarshipinterview #studyinuk",
   "fb_caption": "Chevening interview: don't recite a memorised \"right\" answer. Chevening says there is no right answer, only a true one. Structure a real example with STAR: situation, task, action, result.\n\nSend this to a friend with an interview coming up.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#chevening #cheveningscholarship #scholarshipinterview #studyinuk",
-  "publish_at": "2026-11-22T15:00:00Z",
-  "story": true,
+  "publish_at": "2026-11-25T12:00:00Z",
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé).",
+  "instagram": false
  },
  {
   "id": "2026-11-22-paws-reel",
@@ -708,12 +710,12 @@
   ],
   "caption": "Moving a pet from the UK to Japan? Microchip, then 2 rabies shots at least 30 days apart, a blood test of 0.5 IU/ml or more (day 0), notification at least 40 days before arrival, and arrival no earlier than 180 days after the blood test.\n\nStart here: https://clearedpaws.com/kits/uk-to-japan?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtojapan #movingabroadwithpets",
   "fb_caption": "Moving a pet from the UK to Japan? Microchip, then 2 rabies shots at least 30 days apart, a blood test of 0.5 IU/ml or more (day 0), notification at least 40 days before arrival, and arrival no earlier than 180 days after the blood test.\n\nStart here: https://clearedpaws.com/kits/uk-to-japan?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtojapan #movingabroadwithpets",
-  "publish_at": "2026-11-22T21:00:00Z",
+  "publish_at": "2026-11-25T19:30:00Z",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé)."
  },
  {
   "account": "tvb",
@@ -1020,5 +1022,98 @@
   ],
   "fb_id": "1161918673000318",
   "published_at": "2026-11-24T21:01:11.696951+00:00"
+ },
+ {
+  "id": "2026-11-25-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-25/visa-A.mp4"
+  ],
+  "caption": "Every UK partner route, compared. Fiancé(e): 6 months to marry. Spouse or civil partner: already married. Unmarried partner: 2 years in a relationship like marriage. All three need £29,000 a year.\n\nSend this to your partner.\n\nLink in bio\n\n#ukspousevisa #ukfamilyvisa #fiancevisa #movetotheuk",
+  "fb_caption": "Every UK partner route, compared. Fiancé(e): 6 months to marry. Spouse or civil partner: already married. Unmarried partner: 2 years in a relationship like marriage. All three need £29,000 a year.\n\nSend this to your partner.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#ukspousevisa #ukfamilyvisa #fiancevisa #movetotheuk",
+  "publish_at": "2026-11-25T13:00:00Z",
+  "instagram": true,
+  "story": false,
+  "status": "pending",
+  "facebook": true,
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-25-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-25/car-visa-01.jpg",
+   "queue/2026-11-25/car-visa-02.jpg",
+   "queue/2026-11-25/car-visa-03.jpg",
+   "queue/2026-11-25/car-visa-04.jpg",
+   "queue/2026-11-25/car-visa-05.jpg",
+   "queue/2026-11-25/car-visa-06.jpg"
+  ],
+  "caption": "US marriage green card checklist: the forms (I-130, I-130A, I-485, I-864), the proof, the I-693 medical exam and evidence of a genuine marriage.\n\nSave this before you file.\n\nLink in bio\n\n#marriagegreencard #greencard #uscis #spousevisa",
+  "fb_caption": "US marriage green card checklist: the forms (I-130, I-130A, I-485, I-864), the proof, the I-693 medical exam and evidence of a genuine marriage.\n\nSave this before you file.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#marriagegreencard #greencard #uscis #spousevisa",
+  "alt_text": [
+   "Cover: US marriage green card, what to file.",
+   "The forms: I-130, I-130A for the spouse beneficiary, I-485 if your spouse is in the US, I-864 Affidavit of Support.",
+   "The proof: marriage certificate, proof prior marriages ended, birth certificate and photo ID, two passport-style photos.",
+   "Medical exam: Form I-693 completed by a USCIS civil surgeon.",
+   "Prove it is real: joint documents and photos showing a genuine marriage.",
+   "USA Marriage Green Card Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-25T17:00:00Z",
+  "instagram": false,
+  "story": false,
+  "status": "pending",
+  "facebook": true,
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-25-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-25/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #8: Canada Express Entry. Under the federal skilled programs, a single applicant must show CAD 15,263 in settlement funds, unless already working in Canada with a valid job offer.\n\nPlanning Canadian PR? Save this.\n\nLink in bio\n\n#expressentry #canadapr #canadaimmigration #skilledworker",
+  "fb_caption": "Visa of the Day #8: Canada Express Entry. Under the federal skilled programs, a single applicant must show CAD 15,263 in settlement funds, unless already working in Canada with a valid job offer.\n\nPlanning Canadian PR? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#expressentry #canadapr #canadaimmigration #skilledworker",
+  "publish_at": "2026-11-25T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "status": "pending",
+  "facebook": true,
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-25-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-25/scholar.mp4"
+  ],
+  "caption": "3 documents MEXT embassy applicants need: the Field of Study and Research Plan, the Certificate of Health filled in by a medical doctor, and a recommendation letter.\n\nSave this for your MEXT file.\n\nLink in bio\n\n#mext #mextscholarship #studyinjapan #japanesegovernmentscholarship",
+  "fb_caption": "3 documents MEXT embassy applicants need: the Field of Study and Research Plan, the Certificate of Health filled in by a medical doctor, and a recommendation letter.\n\nSave this for your MEXT file.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#mext #mextscholarship #studyinjapan #japanesegovernmentscholarship",
+  "publish_at": "2026-11-25T15:00:00Z",
+  "instagram": true,
+  "story": false,
+  "status": "pending",
+  "facebook": true,
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-25-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-25/paws.mp4"
+  ],
+  "caption": "Moving a pet from the UK to Australia? Australia's official estimate for one cat or dog with the minimum 10 days of quarantine is AUD 3,114, before flights and vet costs.\n\nStart here: https://clearedpaws.com/kits/uk-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtoaustralia #movingabroadwithpets",
+  "fb_caption": "Moving a pet from the UK to Australia? Australia's official estimate for one cat or dog with the minimum 10 days of quarantine is AUD 3,114, before flights and vet costs.\n\nStart here: https://clearedpaws.com/kits/uk-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtoaustralia #movingabroadwithpets",
+  "publish_at": "2026-11-25T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "status": "pending",
+  "facebook": true,
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
  }
 ]
