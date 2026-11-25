@@ -724,8 +724,13 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé)."
+  "status": "published",
+  "note": "Rattrapage Facebook du 25/11 (1 par jour et par compte, Instagram jamais rattrapé).",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1454044616903253",
+  "published_at": "2026-11-25T19:31:09.488649+00:00"
  },
  {
   "account": "tvb",
