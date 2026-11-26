@@ -1252,8 +1252,13 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "status": "published",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1010290158801336",
+  "published_at": "2026-11-26T23:01:09.803776+00:00"
  },
  {
   "id": "2026-11-26-scholar-reel",
