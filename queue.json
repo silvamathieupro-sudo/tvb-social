@@ -1258,8 +1258,16 @@
   "instagram": true,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "status": "published",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "ig",
+   "fb"
+  ],
+  "media_id": "18664510363005496",
+  "permalink": "https://www.instagram.com/reel/DgNYQRmhFWV/",
+  "fb_id": "2146086656081412",
+  "published_at": "2026-11-26T15:01:18.421438+00:00"
  },
  {
   "id": "2026-11-26-scholar-carousel",
