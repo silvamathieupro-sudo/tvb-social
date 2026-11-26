@@ -442,11 +442,13 @@
   ],
   "caption": "Quick quiz: how many new Erasmus Mundus Joint Masters open for 2027 entry? 37. The 87 figure includes 50 design measures, which are not degrees.\n\nSend this to the friend applying this winter.\n\nLink in bio\n\n#erasmusmundus #fullyfundedscholarships #studyineurope #mastersscholarship",
   "fb_caption": "Quick quiz: how many new Erasmus Mundus Joint Masters open for 2027 entry? 37. The 87 figure includes 50 design measures, which are not degrees.\n\nSend this to the friend applying this winter.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#erasmusmundus #fullyfundedscholarships #studyineurope #mastersscholarship",
-  "publish_at": "2026-11-20T15:00:00Z",
-  "story": true,
+  "publish_at": "2026-11-26T12:00:00Z",
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 26/11.",
+  "instagram": false,
+  "attempts": 0
  },
  {
   "id": "2026-11-20-paws-reel",
@@ -609,12 +611,13 @@
   ],
   "caption": "Taking a pet from Canada to the EU? The microchip must go in before the rabies vaccine, you wait at least 21 days after the first vaccination, and the health certificate is valid for 10 days up to the EU entry check.\n\nStart here: https://clearedpaws.com/kits/canada-to-eu?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #petsincanada #movingabroadwithpets",
   "fb_caption": "Taking a pet from Canada to the EU? The microchip must go in before the rabies vaccine, you wait at least 21 days after the first vaccination, and the health certificate is valid for 10 days up to the EU entry check.\n\nStart here: https://clearedpaws.com/kits/canada-to-eu?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #petsincanada #movingabroadwithpets",
-  "publish_at": "2026-11-21T21:00:00Z",
+  "publish_at": "2026-11-26T19:30:00Z",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 26/11.",
+  "attempts": 0
  },
  {
   "id": "check-tvb-2026-11-22",
@@ -683,12 +686,13 @@
   ],
   "caption": "Visa of the Day #5: the Dutch self-employed residence permit. Your business must show at least €1,766.77 gross profit a month (holiday allowance included) until 31 December 2026, and pass the RVO points test.\n\nPlanning to freelance in the Netherlands? Save this.\n\nLink in bio\n\n#netherlandsvisa #selfemployed #movetothenetherlands #ind",
   "fb_caption": "Visa of the Day #5: the Dutch self-employed residence permit. Your business must show at least €1,766.77 gross profit a month (holiday allowance included) until 31 December 2026, and pass the RVO points test.\n\nPlanning to freelance in the Netherlands? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#netherlandsvisa #selfemployed #movetothenetherlands #ind",
-  "publish_at": "2026-11-22T23:00:00Z",
+  "publish_at": "2026-11-26T11:00:00Z",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 26/11.",
+  "attempts": 0
  },
  {
   "id": "2026-11-22-scholar-reel",
@@ -1161,5 +1165,128 @@
   ],
   "fb_id": "1069084419525798",
   "published_at": "2026-11-25T21:01:11.239930+00:00"
+ },
+ {
+  "id": "2026-11-26-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-26/visa-A.mp4"
+  ],
+  "caption": "Born abroad to a Canadian parent before December 15, 2025? In most cases you are already a citizen under Bill C-3. Apply for a citizenship certificate as proof. Born later to a parent who was born abroad? That parent needs 1,095 days in Canada before your birth.\n\nSend this to the friend with a Canadian parent.\n\nLink in bio\n\n#canadiancitizenship #billc3 #citizenshipbydescent #lostcanadians",
+  "fb_caption": "Born abroad to a Canadian parent before December 15, 2025? In most cases you are already a citizen under Bill C-3. Apply for a citizenship certificate as proof. Born later to a parent who was born abroad? That parent needs 1,095 days in Canada before your birth.\n\nSend this to the friend with a Canadian parent.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#canadiancitizenship #billc3 #citizenshipbydescent #lostcanadians",
+  "publish_at": "2026-11-26T13:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-26-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-26/car-visa-01.jpg",
+   "queue/2026-11-26/car-visa-02.jpg",
+   "queue/2026-11-26/car-visa-03.jpg",
+   "queue/2026-11-26/car-visa-04.jpg",
+   "queue/2026-11-26/car-visa-05.jpg",
+   "queue/2026-11-26/car-visa-06.jpg"
+  ],
+  "caption": "Spain digital nomad visa checklist for US applicants: NIE first, FBI check under 6 months with an apostille, 3+ months with your employer or clients, and €2,442 a month minimum income in 2026.\n\nSave this before you book your consulate appointment.\n\nLink in bio\n\n#spaindigitalnomadvisa #digitalnomadvisa #movetospain #remotework",
+  "fb_caption": "Spain digital nomad visa checklist for US applicants: NIE first, FBI check under 6 months with an apostille, 3+ months with your employer or clients, and €2,442 a month minimum income in 2026.\n\nSave this before you book your consulate appointment.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#spaindigitalnomadvisa #digitalnomadvisa #movetospain #remotework",
+  "alt_text": [
+   "Cover: Spain digital nomad visa, what to bring, for US applicants.",
+   "Before you apply: NIE certificate, signed national visa form, passport valid for the whole stay, FBI check under 6 months with apostille.",
+   "Proof of the remote job: 3+ months with your employer or clients, permission to work from Spain, company active for 1+ year, degree or 3 years of experience.",
+   "Income: 200% of the SMI, €2,442 a month in 2026, plus €916 for the first family member and €306 for each extra one.",
+   "Health insurance from an insurer authorised in Spain, covering what the public system covers; travel insurance not accepted.",
+   "Spain Digital Nomad Visa Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-26T17:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-26-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-26/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #9: Australia's Skilled Independent visa (subclass 189). The points test pass mark is 65, and you need a skills assessment for your occupation.\n\nPlanning Australian PR? Save this.\n\nLink in bio\n\n#australiapr #subclass189 #skillsassessment #skilledvisa",
+  "fb_caption": "Visa of the Day #9: Australia's Skilled Independent visa (subclass 189). The points test pass mark is 65, and you need a skills assessment for your occupation.\n\nPlanning Australian PR? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#australiapr #subclass189 #skillsassessment #skilledvisa",
+  "publish_at": "2026-11-26T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-26-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-26/scholar.mp4"
+  ],
+  "caption": "You can apply for the Global Korea Scholarship without a TOPIK score. Master's scholars get 1 year of Korean language study first, and need TOPIK level 3 to start the degree.\n\nSend this to a friend looking at Korea.\n\nLink in bio\n\n#gks #globalkoreascholarship #studyinkorea #kgsp",
+  "fb_caption": "You can apply for the Global Korea Scholarship without a TOPIK score. Master's scholars get 1 year of Korean language study first, and need TOPIK level 3 to start the degree.\n\nSend this to a friend looking at Korea.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#gks #globalkoreascholarship #studyinkorea #kgsp",
+  "publish_at": "2026-11-26T15:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-26-scholar-carousel",
+  "account": "scholar",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-26/car-scholar-01.jpg",
+   "queue/2026-11-26/car-scholar-02.jpg",
+   "queue/2026-11-26/car-scholar-03.jpg",
+   "queue/2026-11-26/car-scholar-04.jpg",
+   "queue/2026-11-26/car-scholar-05.jpg",
+   "queue/2026-11-26/car-scholar-06.jpg",
+   "queue/2026-11-26/car-scholar-07.jpg"
+  ],
+  "caption": "What 5 big scholarships actually pay for: Gates Cambridge £23,152 for 12 months of living costs, Erasmus Mundus €1,400 a month, SI Global Professionals SEK 12,000 a month, plus Türkiye Bursları and GKS.\n\nSave this for your shortlist.\n\nLink in bio\n\n#fullyfundedscholarship #gatescambridge #erasmusmundus #swedishinstitute #studyabroad",
+  "fb_caption": "What 5 big scholarships actually pay for: Gates Cambridge £23,152 for 12 months of living costs, Erasmus Mundus €1,400 a month, SI Global Professionals SEK 12,000 a month, plus Türkiye Bursları and GKS.\n\nSave this for your shortlist.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#fullyfundedscholarship #gatescambridge #erasmusmundus #swedishinstitute #studyabroad",
+  "alt_text": [
+   "Cover: what each scholarship actually pays for, 5 open or upcoming awards.",
+   "Gates Cambridge: £23,152 for 12 months, university fee, flights, visa and health surcharge.",
+   "Erasmus Mundus: €1,400 a month, participation costs, travel and visa contribution.",
+   "SI Global Professionals: SEK 12,000 a month, full tuition, one-time travel grant.",
+   "Türkiye Bursları: apply 10 January to 20 February; tuition, stipend, accommodation, insurance, flight and a Turkish course.",
+   "Global Korea Scholarship: airfare, 1 year of Korean training, tuition and allowances.",
+   "SI Global Professionals Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-26T19:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-26-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-26/paws.mp4"
+  ],
+  "fb_caption": "Flying a pet from Australia to the UK? Unless you charter a private plane, pets enter Great Britain as cargo, on an approved route and airline, into an approved airport such as Heathrow. Cats also need a certificate from Australia's Department of Agriculture.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #petsfromaustralia",
+  "publish_at": "2026-11-26T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
  }
 ]
