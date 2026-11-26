@@ -620,9 +620,14 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
+  "status": "published",
   "note": "Rattrapage Facebook seulement (reprise après blocage), 26/11.",
-  "attempts": 0
+  "attempts": 0,
+  "done": [
+   "fb"
+  ],
+  "fb_id": "2407707183395140",
+  "published_at": "2026-11-26T19:31:10.068801+00:00"
  },
  {
   "id": "check-tvb-2026-11-22",
