@@ -445,10 +445,15 @@
   "publish_at": "2026-11-26T12:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "pending",
+  "status": "published",
   "note": "Rattrapage Facebook seulement (reprise après blocage), 26/11.",
   "instagram": false,
-  "attempts": 0
+  "attempts": 0,
+  "done": [
+   "fb"
+  ],
+  "fb_id": "1186713350464426",
+  "published_at": "2026-11-26T12:01:11.506672+00:00"
  },
  {
   "id": "2026-11-20-paws-reel",
