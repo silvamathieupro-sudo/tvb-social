@@ -1470,7 +1470,12 @@
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "status": "published",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "fb"
+  ],
+  "fb_id": "4062389154063986",
+  "published_at": "2026-11-27T21:01:13.223869+00:00"
  }
 ]
