@@ -1437,8 +1437,16 @@
   "instagram": true,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "status": "published",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "ig",
+   "fb"
+  ],
+  "media_id": "18227947510340140",
+  "permalink": "https://www.instagram.com/reel/DgP9EziBL3L/",
+  "fb_id": "1131583403086057",
+  "published_at": "2026-11-27T15:01:11.466298+00:00"
  },
  {
   "id": "2026-11-27-paws-reel",
