@@ -464,12 +464,13 @@
   ],
   "caption": "Moving a pet from the US to Hawaii, Japan or Australia? In Hawaii, one missed step can mean up to 120 days of quarantine. Japan needs 180 days after the rabies blood test. Australia needs 180 days too, and at least 6 months of preparation.\n\nThe USA to Australia Kit lays out the timeline: https://clearedpaws.com/kits/usa-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingabroadwithpets #petquarantine",
   "fb_caption": "Moving a pet from the US to Hawaii, Japan or Australia? In Hawaii, one missed step can mean up to 120 days of quarantine. Japan needs 180 days after the rabies blood test. Australia needs 180 days too, and at least 6 months of preparation.\n\nThe USA to Australia Kit lays out the timeline: https://clearedpaws.com/kits/usa-to-australia?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingabroadwithpets #petquarantine",
-  "publish_at": "2026-11-20T21:00:00Z",
+  "publish_at": "2026-11-27T19:30:00Z",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : compte développeur Meta de Mathieu à vérifier (activité inhabituelle, constaté le 20/11). Ne repasser en pending qu'après la vérification et un appel test réussi."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 27/11.",
+  "attempts": 0
  },
  {
   "id": "check-tvb-2026-11-20",
@@ -601,11 +602,13 @@
   ],
   "caption": "Fully funded scholarships, ranked by living allowance: Gates Cambridge pays £23,152 for 12 months, the Swedish Institute SEK 12,000 a month, Stipendium Hungaricum HUF 43,700 a month plus free tuition.\n\nSend this to the friend applying this winter.\n\nLink in bio\n\n#fullyfundedscholarships #gatescambridge #swedishinstitute #stipendiumhungaricum",
   "fb_caption": "Fully funded scholarships, ranked by living allowance: Gates Cambridge pays £23,152 for 12 months, the Swedish Institute SEK 12,000 a month, Stipendium Hungaricum HUF 43,700 a month plus free tuition.\n\nSend this to the friend applying this winter.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#fullyfundedscholarships #gatescambridge #swedishinstitute #stipendiumhungaricum",
-  "publish_at": "2026-11-21T15:00:00Z",
-  "story": true,
+  "publish_at": "2026-11-27T12:00:00Z",
+  "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 27/11.",
+  "instagram": false,
+  "attempts": 0
  },
  {
   "id": "2026-11-21-paws-reel",
@@ -681,11 +684,13 @@
    "After you land: the visitor visa works as a residence permit, VLS-TS, and must be validated online after you arrive.",
    "France Long-Stay Visitor Visa Kit. Link in bio."
   ],
-  "publish_at": "2026-11-22T17:00:00Z",
+  "publish_at": "2026-11-27T11:00:00Z",
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 22/11 à 03:31 UTC (3e jour après la vérification du compte développeur du 20/11). Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 27/11.",
+  "instagram": false,
+  "attempts": 0
  },
  {
   "id": "2026-11-22-reel-B",
@@ -1339,5 +1344,97 @@
   ],
   "fb_id": "1427969979321521",
   "published_at": "2026-11-26T21:01:11.036840+00:00"
+ },
+ {
+  "id": "2026-11-27-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-27/visa-A.mp4"
+  ],
+  "caption": "Married less than 2 years when you get your green card? It's conditional, valid for 2 years. To remove the conditions, file Form I-751 jointly with your spouse in the 90 days before it expires.\n\nSend this to your spouse.\n\nLink in bio\n\n#marriagegreencard #i751 #greencard #spousevisa",
+  "fb_caption": "Married less than 2 years when you get your green card? It's conditional, valid for 2 years. To remove the conditions, file Form I-751 jointly with your spouse in the 90 days before it expires.\n\nSend this to your spouse.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#marriagegreencard #i751 #greencard #spousevisa",
+  "publish_at": "2026-11-27T13:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-27-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-27/car-visa-01.jpg",
+   "queue/2026-11-27/car-visa-02.jpg",
+   "queue/2026-11-27/car-visa-03.jpg",
+   "queue/2026-11-27/car-visa-04.jpg",
+   "queue/2026-11-27/car-visa-05.jpg",
+   "queue/2026-11-27/car-visa-06.jpg"
+  ],
+  "caption": "Portugal digital nomad visa (D8) checklist: passport, police clearance under 6 months, travel insurance, proof of remote work, a tax residence certificate and €3,680 a month average income in 2026.\n\nSave this before your consulate appointment.\n\nLink in bio\n\n#portugald8visa #portugaldigitalnomad #movetoportugal #digitalnomadvisa",
+  "fb_caption": "Portugal digital nomad visa (D8) checklist: passport, police clearance under 6 months, travel insurance, proof of remote work, a tax residence certificate and €3,680 a month average income in 2026.\n\nSave this before your consulate appointment.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#portugald8visa #portugaldigitalnomad #movetoportugal #digitalnomadvisa",
+  "alt_text": [
+   "Cover: Portugal digital nomad visa (D8), what to bring.",
+   "The basics: passport valid 3+ months beyond the stay, police clearance under 6 months with apostille, travel insurance with repatriation.",
+   "Proof of the remote work: employment contract or employer letter, or service contracts or proof of services to clients if self-employed.",
+   "Income: 4 times the minimum wage, €3,680 a month average over the last 3 months in 2026.",
+   "Tax residence certificate from your current country.",
+   "Portugal D8 Digital Nomad Visa Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-27T17:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-27-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-27/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #10: Italy's study visa for university enrolment. For 2026-27, show at least €10,179.85 a year in financial means, and apply by 30 November 2026.\n\nStarting a degree in Italy? Save this.\n\nLink in bio\n\n#italystudentvisa #studyinitaly #italyvisa #universitaly",
+  "fb_caption": "Visa of the Day #10: Italy's study visa for university enrolment. For 2026-27, show at least €10,179.85 a year in financial means, and apply by 30 November 2026.\n\nStarting a degree in Italy? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#italystudentvisa #studyinitaly #italyvisa #universitaly",
+  "publish_at": "2026-11-27T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-27-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-27/scholar.mp4"
+  ],
+  "caption": "Quick quiz: how long is the Schwarzman Scholars master's at Tsinghua? One year. A fully funded Master of Global Affairs, taught in English, in Beijing.\n\nSend this to a friend aiming for Schwarzman.\n\nLink in bio\n\n#schwarzmanscholars #tsinghua #fullyfundedscholarship #studyinchina",
+  "fb_caption": "Quick quiz: how long is the Schwarzman Scholars master's at Tsinghua? One year. A fully funded Master of Global Affairs, taught in English, in Beijing.\n\nSend this to a friend aiming for Schwarzman.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#schwarzmanscholars #tsinghua #fullyfundedscholarship #studyinchina",
+  "publish_at": "2026-11-27T15:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-27-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-27/paws.mp4"
+  ],
+  "fb_caption": "Taking your dog to Finland, Ireland, Malta or Norway? A vet must treat it for tapeworm 1 to 5 days (24 to 120 hours) before arrival and record it in the pet passport or health certificate.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #dogtravel #movingabroadwithpets",
+  "publish_at": "2026-11-27T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
  }
 ]
