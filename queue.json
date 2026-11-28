@@ -1502,8 +1502,16 @@
   "instagram": true,
   "story": false,
   "facebook": true,
-  "status": "pending",
-  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+  "status": "published",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story.",
+  "done": [
+   "ig",
+   "fb"
+  ],
+  "media_id": "17993214270112511",
+  "permalink": "https://www.instagram.com/reel/DgSUGCNJ3zE/",
+  "fb_id": "1889978582425131",
+  "published_at": "2026-11-28T13:01:11.268477+00:00"
  },
  {
   "id": "2026-11-28-carousel",
