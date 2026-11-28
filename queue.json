@@ -591,12 +591,13 @@
   ],
   "caption": "Visa of the Day #4: France's entrepreneur and liberal profession visa. Setting up as a freelancer? You must show income at least equal to the full-time minimum wage, €1,867 gross a month.\n\nPlanning to work for yourself in France? Save this.\n\nLink in bio\n\n#francevisa #freelanceinfrance #professionliberale #movetofrance",
   "fb_caption": "Visa of the Day #4: France's entrepreneur and liberal profession visa. Setting up as a freelancer? You must show income at least equal to the full-time minimum wage, €1,867 gross a month.\n\nPlanning to work for yourself in France? Save this.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#francevisa #freelanceinfrance #professionliberale #movetofrance",
-  "publish_at": "2026-11-21T23:00:00Z",
+  "publish_at": "2026-11-28T11:00:00Z",
   "instagram": false,
   "story": false,
   "facebook": true,
-  "status": "hold",
-  "note": "En attente : « API access blocked » toujours renvoyé le 21/11 à 03:32 UTC malgré la vérification du compte développeur faite par Mathieu le 20/11. Ne repasser en pending qu'après un appel test réussi (reprise : 2 jours Facebook seulement)."
+  "status": "pending",
+  "note": "Rattrapage Facebook seulement (reprise après blocage), 28/11.",
+  "attempts": 0
  },
  {
   "id": "2026-11-21-scholar-reel",
@@ -1482,5 +1483,97 @@
   ],
   "fb_id": "4062389154063986",
   "published_at": "2026-11-27T21:01:13.223869+00:00"
+ },
+ {
+  "id": "2026-11-28-reel-A",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-28/visa-A.mp4"
+  ],
+  "caption": "Your UK settlement countdown as a partner: a 33-month visa from abroad, a 30-month extension, then indefinite leave to remain after 5 years. The reform announced on 2 November 2026 keeps 5 years for partners of British citizens. It is not law yet.\n\nSave this for your timeline.\n\nLink in bio\n\n#ukspousevisa #indefiniteleavetoremain #ilr #ukpartnervisa",
+  "fb_caption": "Your UK settlement countdown as a partner: a 33-month visa from abroad, a 30-month extension, then indefinite leave to remain after 5 years. The reform announced on 2 November 2026 keeps 5 years for partners of British citizens. It is not law yet.\n\nSave this for your timeline.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#ukspousevisa #indefiniteleavetoremain #ilr #ukpartnervisa",
+  "publish_at": "2026-11-28T13:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-28-carousel",
+  "account": "tvb",
+  "type": "carousel",
+  "media": [
+   "queue/2026-11-28/car-visa-01.jpg",
+   "queue/2026-11-28/car-visa-02.jpg",
+   "queue/2026-11-28/car-visa-03.jpg",
+   "queue/2026-11-28/car-visa-04.jpg",
+   "queue/2026-11-28/car-visa-05.jpg",
+   "queue/2026-11-28/car-visa-06.jpg"
+  ],
+  "caption": "Ireland join family visa checklist for spouses of Irish citizens: summary form, passport, letter of application, marriage certificate, proof of face-to-face meetings, your spouse's Irish passport and 6 months of bank statements.\n\nSave this before you apply.\n\nLink in bio\n\n#irelandspousevisa #joinfamilyvisa #movetoireland #irishcitizen",
+  "fb_caption": "Ireland join family visa checklist for spouses of Irish citizens: summary form, passport, letter of application, marriage certificate, proof of face-to-face meetings, your spouse's Irish passport and 6 months of bank statements.\n\nSave this before you apply.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#irelandspousevisa #joinfamilyvisa #movetoireland #irishcitizen",
+  "alt_text": [
+   "Cover: Ireland join family visa for the spouse of an Irish citizen.",
+   "Everyone sends: signed application summary form, passport and photographs, letter of application, medical or travel insurance.",
+   "Your relationship: marriage or civil partnership certificate, relationship history if not living together, proof of face-to-face meetings.",
+   "Your sponsor's status: a clear copy of your spouse's passport or other proof of Irish citizenship.",
+   "Finances: 6 months of bank statements for you and your sponsor, their Revenue Employment Detail Summary for 3 years and 3 recent payslips.",
+   "Ireland Join Family Kit. Link in bio."
+  ],
+  "publish_at": "2026-11-28T17:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-28-reel-B",
+  "account": "tvb",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-28/visa-B.mp4"
+  ],
+  "caption": "Visa of the Day #11: Ireland's study visa. For courses longer than 8 months, show immediate access to at least €10,000 per year of study, on top of your course fees.\n\nSend this to a friend heading to Ireland.\n\nLink in bio\n\n#irelandstudentvisa #studyinireland #irelandvisa #internationalstudents",
+  "fb_caption": "Visa of the Day #11: Ireland's study visa. For courses longer than 8 months, show immediate access to at least €10,000 per year of study, on top of your course fees.\n\nSend this to a friend heading to Ireland.\n\nhttps://getvisablueprint.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#irelandstudentvisa #studyinireland #irelandvisa #internationalstudents",
+  "publish_at": "2026-11-28T23:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-28-scholar-reel",
+  "account": "scholar",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-28/scholar.mp4"
+  ],
+  "caption": "Scholarships ranked by the work experience you need: SI Global Professionals asks for 3,000 hours in most countries, Chevening 2,800 hours (about 2 years), and each Erasmus Mundus master's sets its own rules.\n\nSend this to a friend planning a master's.\n\nLink in bio\n\n#fullyfundedscholarship #swedishinstitute #chevening #erasmusmundus",
+  "fb_caption": "Scholarships ranked by the work experience you need: SI Global Professionals asks for 3,000 hours in most countries, Chevening 2,800 hours (about 2 years), and each Erasmus Mundus master's sets its own rules.\n\nSend this to a friend planning a master's.\n\nhttps://scholardossier.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#fullyfundedscholarship #swedishinstitute #chevening #erasmusmundus",
+  "publish_at": "2026-11-28T15:00:00Z",
+  "instagram": true,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
+ },
+ {
+  "id": "2026-11-28-paws-reel",
+  "account": "paws",
+  "type": "reel",
+  "media": [
+   "queue/2026-11-28/paws.mp4"
+  ],
+  "fb_caption": "Flying your pet from the USA to the UK? On arrival, staff read the microchip and check the documents, including a rabies vaccination given at least 21 days before travel.\n\nStart here: https://clearedpaws.com/?utm_source=facebook&utm_medium=social&utm_campaign=page_post\n\n#petrelocation #movingtotheuk #pettravel",
+  "publish_at": "2026-11-28T21:00:00Z",
+  "instagram": false,
+  "story": false,
+  "facebook": true,
+  "status": "pending",
+  "note": "Reprise : 25/11-01/12, 1 post Instagram par jour et par compte, sans story."
  }
 ]
